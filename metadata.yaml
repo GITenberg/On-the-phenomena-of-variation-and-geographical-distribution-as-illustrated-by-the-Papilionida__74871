@@ -1,5 +1,8 @@
 _repo: On-the-phenomena-of-variation-and-geographical-distribution-as-illustrated-by-the-Papilionida__74871
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74871-h/images/cover.jpg
 creator:
   author:
     agent_name: Wallace, Alfred Russel
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/955
     wikipedia: https://en.wikipedia.org/wiki/Alfred_Russel_Wallace
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74871#On-the-phenomena-of-variation-and-geographical-distribution-as-illustrated-by-the-Papilionida_
 gutenberg_issued: '2024-12-11'
 gutenberg_type: Text
 identifiers:
